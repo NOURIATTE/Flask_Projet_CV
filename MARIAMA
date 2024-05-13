@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon CV MANAM </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            margin-top: 0;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Informations personnelles</h1>
+        <div class="section">
+            <p><strong>Nom:MANAM </strong> Doe</p>
+            <p><strong>Prénom:MARIAMA</strong> John</p>
+            <p><strong>Adresse:</strong> 11 Square paul lafargue</p>
+            <p><strong>Email:</strong> nouriatte.manam@gmail.com</p>
+            <p><strong>Téléphone:</strong> 01 23 45 67 89</p>
+        </div>
+
+        <h1>Objectif professionnel</h1>
+        <div class="section">
+            <p>Administrateur système & réseau informatique.</p>
+        </div>
+
+        <h1>Expérience professionnelle</h1>
+        <div class="section">
+            <h2>Technicienne Assistance en informatique</h2>
+            <p>Mars 2021 - AVRIL</p>
+            <p>Installation & Configuration des systèmes exploitations.</p>
+            <h2>Stagiaire en informatique </h2>
+            <p>Novembre 2020</p>
+            <p>Vente des equipements numeriques.</p>
+        </div>
+
+        <h1>Formation académique</h1>
+<div class="section">
+            <p>LICENCE en informatique - LECNAM PARIS</p>
+            <p>Année : 2023-2024</p>
+        </div>
+
+        <h1>Compétences</h1>
+        <div class="section">
+            <ul>
+                <li>Développement web(HTML, CSS, JavaScript)</li>
+                <li>Programmation en Java</li>
+                <li>Gestion de base de données (SQL)</li>
+            </ul>
+        </div>
+
+        <h1>Loisirs</h1>
+        <div class="section">
+            <ul>
+                <li>Voyager</li>
+                <li>Cinema</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
